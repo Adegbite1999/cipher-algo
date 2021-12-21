@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Adegbite1999/cipher-algo/issues"
   },
-  "homepage": "https://github.com/Adegbite1999/cipher-algo#readme"
+  "homepage": "https://github.com/Adegbite1999/cipher-algo#readme",
+  "dependencies": {
+    "node-rsa": "^1.1.1"
+  }
 }
