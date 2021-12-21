@@ -1,0 +1,19 @@
+{
+  "name": "cipheralgo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adegbite1999/cipher-algo.git"
+  },
+  "author": "Adegbite Ademola Kelvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adegbite1999/cipher-algo/issues"
+  },
+  "homepage": "https://github.com/Adegbite1999/cipher-algo#readme"
+}
